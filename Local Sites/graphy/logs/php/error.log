@@ -1,0 +1,38 @@
+[17-Aug-2020 05:13:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\theme.php on line 586
+[17-Aug-2020 05:13:14 UTC] PHP Stack trace:
+[17-Aug-2020 05:13:14 UTC] PHP   1. {main}() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:0
+[17-Aug-2020 05:13:14 UTC] PHP   2. do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:176
+[17-Aug-2020 05:13:14 UTC] PHP   3. WP_Hook->do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\plugin.php:478
+[17-Aug-2020 05:13:14 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:311
+[17-Aug-2020 05:13:14 UTC] PHP   5. wp_ajax_query_themes() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:287
+[17-Aug-2020 05:13:14 UTC] PHP   6. themes_api() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\ajax-actions.php:3536
+[17-Aug-2020 05:13:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\theme.php on line 586
+[17-Aug-2020 05:13:55 UTC] PHP Stack trace:
+[17-Aug-2020 05:13:55 UTC] PHP   1. {main}() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:0
+[17-Aug-2020 05:13:55 UTC] PHP   2. do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:176
+[17-Aug-2020 05:13:55 UTC] PHP   3. WP_Hook->do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\plugin.php:478
+[17-Aug-2020 05:13:55 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:311
+[17-Aug-2020 05:13:55 UTC] PHP   5. wp_ajax_query_themes() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:287
+[17-Aug-2020 05:13:55 UTC] PHP   6. themes_api() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\ajax-actions.php:3536
+[17-Aug-2020 05:14:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\theme.php on line 586
+[17-Aug-2020 05:14:50 UTC] PHP Stack trace:
+[17-Aug-2020 05:14:50 UTC] PHP   1. {main}() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:0
+[17-Aug-2020 05:14:50 UTC] PHP   2. do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:176
+[17-Aug-2020 05:14:50 UTC] PHP   3. WP_Hook->do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\plugin.php:478
+[17-Aug-2020 05:14:50 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:311
+[17-Aug-2020 05:14:50 UTC] PHP   5. wp_ajax_query_themes() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:287
+[17-Aug-2020 05:14:50 UTC] PHP   6. themes_api() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\ajax-actions.php:3536
+[17-Aug-2020 05:15:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\theme.php on line 586
+[17-Aug-2020 05:15:17 UTC] PHP Stack trace:
+[17-Aug-2020 05:15:17 UTC] PHP   1. {main}() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:0
+[17-Aug-2020 05:15:17 UTC] PHP   2. do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\admin-ajax.php:176
+[17-Aug-2020 05:15:17 UTC] PHP   3. WP_Hook->do_action() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\plugin.php:478
+[17-Aug-2020 05:15:17 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:311
+[17-Aug-2020 05:15:17 UTC] PHP   5. wp_ajax_query_themes() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-includes\class-wp-hook.php:287
+[17-Aug-2020 05:15:17 UTC] PHP   6. themes_api() C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-admin\includes\ajax-actions.php:3536
+[17-Aug-2020 06:08:53 UTC] PHP Parse error:  syntax error, unexpected 'do_shortcode' (T_STRING) in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-content\themes\graphy\header.php on line 56
+[17-Aug-2020 06:09:11 UTC] PHP Parse error:  syntax error, unexpected 'do_shortcode' (T_STRING) in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-content\themes\graphy\header.php on line 56
+[17-Aug-2020 06:09:44 UTC] PHP Parse error:  syntax error, unexpected 'do_shortcode' (T_STRING) in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-content\themes\graphy\header.php on line 56
+[17-Aug-2020 06:12:08 UTC] PHP Parse error:  syntax error, unexpected 'do_shortcode' (T_STRING) in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-content\themes\graphy\header.php on line 56
+[17-Aug-2020 09:48:49 UTC] PHP Parse error:  Invalid indentation - tabs and spaces cannot be mixed in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-content\themes\graphy-child\header.php on line 31
+[17-Aug-2020 09:59:24 UTC] PHP Parse error:  syntax error, unexpected 'graphy_site_title' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\Users\kaitonaka\Local Sites\graphy\app\public\wp-content\themes\graphy-child\header.php on line 29
